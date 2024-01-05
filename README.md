@@ -1,6 +1,6 @@
 ### Hi there , I'm [aichibazhang](https://www.diaosi.love)👋
 
-- 🏢 I'm currently working at **YiJingZhiLian. Ltd.**
+- 🏢 I'm currently working at **Fz. Ltd.**
 - 🚀 I use daily:
   ![Golang](https://img.shields.io/badge/-Golang-red?style=plastic&logo=go)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
